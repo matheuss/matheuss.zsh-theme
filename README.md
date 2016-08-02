@@ -1,6 +1,8 @@
 # matheuss.zsh-theme
 Just another zsh theme
 
+<img src="https://raw.githubusercontent.com/matheuss/matheuss.zsh-theme/master/screenshot.png?v=1" width="629">
+
 ## install
 
 First, download the theme into [`Oh My Zsh`](https://github.com/robbyrussell/oh-my-zsh)'s theme folder:
